@@ -4,19 +4,20 @@
 
 I use financial analysis to understand business performance, test assumptions and explain what the evidence means for a decision. My experience spans mortgage valuation operations at Better.com and commercial responsibility as Founder & Manager of Café On The Go.
 
-[Research on GitHub](https://github.com/sat79/finance-portfolio) · [View my portfolio](https://satvik-sahni-finance.deathsatan7777.chatgpt.site) · [Connect on LinkedIn](https://www.linkedin.com/in/satviksahnifinance/)
+**[Finance portfolio — six complete studies](https://github.com/sat79/finance-portfolio)** · [Connect on LinkedIn](https://www.linkedin.com/in/satviksahnifinance/)
 
 ## Selected finance research
 
 | Project | Financial question | Methods |
 |---|---|---|
-| [KSPI: valuation and banking economics](https://satvik-sahni-finance.deathsatan7777.chatgpt.site/kspi.html) | How do payout, currency and credit/funding costs affect shareholder value? | Dividend valuation, scenarios, bank stress, Python and SQL |
-| [Unilever equity valuation](https://satvik-sahni-finance.deathsatan7777.chatgpt.site/unilever.html) | Which operating and discount-rate assumptions drive value? | DCF, residual income, CAPM/WACC and sensitivity analysis |
-| [Financial risk modelling](https://satvik-sahni-finance.deathsatan7777.chatgpt.site/risk.html) | Do risk forecasts cover the losses that occur? | VaR, Expected Shortfall, GARCH and Monte Carlo |
-| [Time-series econometrics](https://satvik-sahni-finance.deathsatan7777.chatgpt.site/econometrics.html) | Does model complexity improve forecasting? | ARIMA, VAR/VECM, stationarity and chronological evaluation |
-| [AURA and blockchain microfinance](https://satvik-sahni-finance.deathsatan7777.chatgpt.site/aura.html) | When does technical efficiency improve financial inclusion? | Dissertation framework, scoring and scenario analysis |
+| [Consumer lending and credit risk](https://github.com/sat79/finance-portfolio/tree/main/consumer-lending-credit-risk) | How do affordability, losses and funding costs affect lending economics? | Synthetic applications, PD calibration, chronological evaluation and stress |
+| [KSPI: valuation and banking economics](https://github.com/sat79/finance-portfolio/tree/main/kspi-valuation-bank-risk) | How do payout, currency and credit/funding costs affect shareholder value? | Dividend valuation, scenarios, bank stress, Python and SQL |
+| [Unilever equity valuation](https://github.com/sat79/finance-portfolio/tree/main/unilever-equity-valuation) | Which operating and discount-rate assumptions drive value? | DCF, residual income, CAPM/WACC and sensitivity analysis |
+| [Financial risk modelling](https://github.com/sat79/finance-portfolio/tree/main/financial-risk-modelling) | Do risk forecasts cover the losses that occur? | VaR, Expected Shortfall, GARCH and Monte Carlo |
+| [Time-series econometrics](https://github.com/sat79/finance-portfolio/tree/main/time-series-econometrics) | Does model complexity improve forecasting? | ARIMA, VAR/VECM, stationarity and chronological evaluation |
+| [AURA and blockchain microfinance](https://github.com/sat79/finance-portfolio/tree/main/blockchain-microfinance-aura) | When does technical efficiency improve financial inclusion? | Dissertation framework, scoring and scenario analysis |
 
-Additional research: [intraday moving-average strategies](https://satvik-sahni-finance.deathsatan7777.chatgpt.site/intraday.html), with explicit costs, completed higher-timeframe signals and documented negative findings.
+Additional research: intraday moving-average strategies, with explicit costs, completed higher-timeframe signals and documented negative findings.
 
 ## Background
 
@@ -28,4 +29,4 @@ Additional research: [intraday moving-average strategies](https://satvik-sahni-f
 
 **Career interests:** Financial Analyst, Risk, Corporate Finance, Investment Banking and fintech roles.
 
-The work distinguishes reported data from assumptions, compares models against benchmarks and documents limitations. New portfolio code was developed with AI assistance; academic material and subsequent research extensions are identified in each study.
+The work distinguishes reported data from assumptions, compares models against benchmarks and documents limitations. Academic material and subsequent research extensions are identified in each study.
